@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; gap : 10px; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AcepHp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcepHp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
